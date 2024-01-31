@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.row .col-sm-4{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.logo_toko{
+    display: flex;
+    left: 50%;
+}
+
+.alamat_toko, .tanggal, .kasir{
+    left: 50%;
+    display: flex;
+}
